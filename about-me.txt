@@ -11,3 +11,5 @@ Experiment with new features on separate branches without breaking the main code
 Contribute to open-source projects and work in professional environments where Git (and usually GitHub/GitLab/Bitbucket) is used daily
 
 In short, knowing Git deeply has made me a much more confident, productive, and employable developer.
+
+In short, knowing Git deeply has made me a much more confident, productive, and employable developer.
