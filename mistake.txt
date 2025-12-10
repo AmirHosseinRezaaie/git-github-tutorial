@@ -1,0 +1,11 @@
+Some mistake in coding :
+Hardcoding: Putting fixed values (like passwords or URLs) directly in the code.
+Poor Naming: Using vague variable names like x, temp, or data.
+Violating DRY: (Don't Repeat Yourself) Copy-pasting the same code multiple times.
+Ignoring Errors: Not using try-catch blocks to handle potential crashes.
+God Functions: Writing single functions that are too long and do too many things.
+Global Variables: Overusing global scope, which makes debugging difficult.
+No Comments: Writing complex logic without explaining "why" it exists.
+Spaghetti Code: Writing messy, unstructured code that is hard to follow.
+Premature Optimization: Trying to make code faster before it even works correctly.
+Not Using Git: Failing to use version control to track changes.
