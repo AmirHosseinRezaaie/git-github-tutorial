@@ -1,0 +1,13 @@
+Hello!
+I'm Amirhossein Rezaaie with 403541474 student number 
+My favorite programming language is Python.
+I decided to learn Git because it’s the version control system and an essential skill for any serious developer.
+ It allows me to:
+
+Track every change in my code safely
+Collaborate efficiently with teams without overwriting each other’s work
+Roll back mistakes instantly
+Experiment with new features on separate branches without breaking the main code
+Contribute to open-source projects and work in professional environments where Git (and usually GitHub/GitLab/Bitbucket) is used daily
+
+In short, knowing Git deeply has made me a much more confident, productive, and employable developer.
