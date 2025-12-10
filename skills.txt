@@ -1,0 +1,6 @@
+My 5 skills in Programming:
+1- coding with c / c++ / python
+2- WebScraping with python
+3- Good at mashine-learning in python
+4- Design Websites with Figma
+5- develope Web by Html/Css/Javascript
